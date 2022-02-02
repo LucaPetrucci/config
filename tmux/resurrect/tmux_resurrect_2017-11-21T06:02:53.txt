@@ -1,0 +1,6 @@
+pane	0	0	:bash	1	:*	0	:/home/mininet	1	bash	:
+pane	0	0	:bash	1	:*	1	:/home/mininet/tof	0	bash	:
+pane	0	1	:bash	0	:-	0	:/home/mininet	1	bash	:
+window	0	0	1	:*	4301,173x44,0,0{86x44,0,0,0,86x44,87,0,1}
+window	0	1	0	:-	bdc0,173x44,0,0,3
+state	0	

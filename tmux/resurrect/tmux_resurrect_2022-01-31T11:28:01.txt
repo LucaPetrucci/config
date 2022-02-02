@@ -1,0 +1,7 @@
+pane	0	0	:RUN	0	:-	0	:/home/luca/GEANT/cwl-tes	1	bash	:
+pane	0	0	:RUN	0	:-	1	:/home/luca	0	watch	:watch -n 1 kubectl get pod
+pane	0	0	:RUN	0	:-	2	:/home/luca	0	bash	:
+pane	0	1	:FTP	1	:*	0	:/home/luca	1	ssh	:ssh vagrant@master-node
+window	0	0	0	:-	2cf3,204x54,0,0[204x27,0,0,0,204x26,0,28{102x26,0,28,1,101x26,103,28,2}]
+window	0	1	1	:*	bea0,204x54,0,0,3
+state	0	

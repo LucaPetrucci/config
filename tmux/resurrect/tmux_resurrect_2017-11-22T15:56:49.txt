@@ -1,0 +1,6 @@
+pane	1	0	:ssh	1	:*	0	:/home/angelo	1	ssh	:ssh ubuntu@compute1
+pane	1	0	:ssh	1	:*	1	:/home/angelo	0	ssh	:ssh ubuntu@compute1
+pane	1	0	:ssh	1	:*	2	:/home/angelo	0	ssh	:ssh ubuntu@compute2
+pane	1	0	:ssh	1	:*	3	:/home/angelo	0	ssh	:ssh ubuntu@compute2
+window	1	0	1	:*	0368,173x44,0,0{89x44,0,0[89x26,0,0,1,89x17,0,27,7],83x44,90,0[83x20,90,0,6,83x23,90,21,8]}
+state	1	

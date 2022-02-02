@@ -1,0 +1,11 @@
+Host vm*
+  User andrea
+
+Host ansible n*
+  User andrea
+
+Host ansible-vm uni-master
+  User ubuntu
+
+Host master-* worker-node*
+  User vagrant

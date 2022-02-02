@@ -1,0 +1,6 @@
+pane	0	0	:bash	1	:*	0	:/home/angelo	0	bash	:sudo -s
+pane	0	0	:bash	1	:*	1	:/home/angelo	1	bash	:sudo -s
+pane	0	0	:bash	1	:*	2	:/home/angelo	0	bash	:sudo -s
+pane	0	0	:bash	1	:*	3	:/home/angelo	0	bash	:sudo -s
+window	0	0	1	:*	f0d1,173x44,0,0[173x21,0,0{86x21,0,0,0,86x21,87,0,3},173x22,0,22{86x22,0,22,1,86x22,87,22,2}]
+state	0	
