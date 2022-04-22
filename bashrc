@@ -120,7 +120,8 @@ alias deltesk="\
         kubectl delete jobs --all; \
         kubectl get pvc -n default --no-headers=true -o=custom-columns='NAME:.metadata.name' | awk '/task-/{print $1}'| xargs  kubectl delete -n default pvc"
 
-
+alias tx=tmuxinator
+export EDITOR='vim'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
