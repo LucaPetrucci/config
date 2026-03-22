@@ -88,6 +88,7 @@ fi
 alias ll='ls -alFh'
 alias la='ls -A'
 alias l='ls -CF'
+alias ip='ip -c'
 
 #alias dpdk-devbind='/opt/odp-dpdk/dpdk/usertools/dpdk-devbind.py'
 alias k=kubectl
